@@ -8,5 +8,14 @@ Example:
 Hint:
 Given an array, positive and negative. Find the longest array which the sum of all the items is zero
 
-For example:  [5, 1, 0, 2, -3, 4, 2]
-    - Solutions Position between 1 and 4 [1, 0, 2, -3]
+Example 1:  [5, 1, 0, 2, -3, 4, 2]
+    - Output [1, 0, 2, -3]
+
+Example 2: [1, 2, 3, 4, 5, 6, 7]
+    - Output []
+
+Example 3: [1, 9, -1, -2, 3, 0, 4, -2, -2, 3, 4]
+    - Output [-1, -2, 3, 0, 4, -2, -2]
+
+Example 4: [10, 3, 4, -2, 4, -5, 8, 9, -12, 6]
+    - Output [4, -2, 4, -5, 8, 9, -12]
