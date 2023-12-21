@@ -14,7 +14,7 @@ import static org.junit.Assert.assertEquals;
  *
  * Example: K = 2, flips = "HTHHTHHHHHTH"
  */
-public class SolutionJiahao {
+public class SolutionTechAlgoView {
     /**
      * Initial analysis. It could be similar to a problem of finding the maxium number of sums that
      * is zero. Example below. We can substitute H by -1, and T by k
